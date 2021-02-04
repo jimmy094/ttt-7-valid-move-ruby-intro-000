@@ -4,7 +4,7 @@ def valid_move?(board, index)
     false
   else position_taken?[true]
     true
-
+end
 
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method abo
